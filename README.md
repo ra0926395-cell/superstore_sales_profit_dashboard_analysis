@@ -77,7 +77,6 @@ This project analyzes the Sample Superstore dataset using SQL, MySQL, and Power 
 - Analytical Thinking
 
 ---
-
 ## 👨‍💻 Author
 
 **Rashid Ahmad**
@@ -87,5 +86,7 @@ B.Tech CSE Student
 Aspiring AI Engineer | Data Analytics Enthusiast
 
 ---
-
+## 🌐 Connect With Me
+Github:-https://github.com/ra0926395-cell
+---
 ## ⭐ If you like this project, don't forget to star this repository!
